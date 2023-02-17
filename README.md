@@ -39,6 +39,8 @@ Here's an example annotation for you:
       "star": 5,
       "review": "Ben kendim için aldım ama çocuklara içirmek zor olur gibi geldi, demir tadı ağza yayılıyor kötü hissettiriyor. Belki portakal suyuna karıştırılarak kullanılabilir. Yetişkinlerde 2,5 ml günlük ihtiyacı tam karşılamıyor bu arada."
     }
+   ]
+}
 ```
 
 The dataset includes 1,052 products of 262 distinct brands with 244K customer reviews. During the compilation, we eliminated reviews containing person names such as customer's name and influencer names.
