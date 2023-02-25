@@ -45,4 +45,4 @@ Here's an example annotation for you:
 
 The dataset includes 1,052 products of 262 distinct brands with 244K customer reviews. During the compilation, we eliminated reviews containing person names such as customer's name and influencer names.  
 
-This work is supported by Google Developer Experts Program. Part of Duygu 2023 Fall-Winter collection, "Turkish NLP with Duygu"/ "Duygu'yla Türkçe NLP". All rights reserved.
+This work is supported by Google Developer Experts Program. Part of Duygu 2022 Fall-Winter collection, "Turkish NLP with Duygu"/ "Duygu'yla Türkçe NLP". All rights reserved.
